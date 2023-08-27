@@ -1,4 +1,4 @@
-package size
+package constant
 
 const (
 	Size256 = 256
