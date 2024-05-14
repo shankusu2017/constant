@@ -1,6 +1,7 @@
 package constant
 
 const (
+	Size32       = 32
 	Size256      = 256
 	Size512      = 512
 	Size1K       = 1024
